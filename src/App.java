@@ -18,7 +18,7 @@ public class App {
 
         System.out.println("WebHook Successfully Tested");
 
-        System.out.println("Git Automation Successful");
+        System.out.println("Git Automation Successful")
 
         
 
